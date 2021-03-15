@@ -1,3 +1,4 @@
+/* definir variáveis dentro do css */
 :root {
     --branco: #FFF;
     --azul-claro: #DFE3E5;
@@ -18,8 +19,6 @@
 
     --montserrat: 'Montserrat', sans-serif;
 }
-
-
 
 body {
     font-family: 'Open Sans', sans-serif;
